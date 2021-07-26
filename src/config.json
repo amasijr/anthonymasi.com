@@ -1,0 +1,99 @@
+{
+  "name": "Anthony Masi",
+  "role": "Security Engineer",
+  "email": "hello@anthonymasi.com",
+  "fingerprint": "AB71 4B2E E9CD 3F2B",
+  "location": "Washington, D.C.",
+  "summary": "Anthony is a security engineer based in the Washington, D.C. metro area. Currently he is a part of Facebook's Investigations & Response team where he blends incident response with operational threat intelligence.\n\nHis interests include finance, geopolitics, software engineering, threat tracking, and offensive security.",
+  "experience": [
+    {
+      "role": "Security Engineer, Incident Response",
+      "company": "Facebook",
+      "yearStart": 2021,
+      "yearEnd": null,
+      "responsibilities": []
+    },
+    {
+      "role": "Security Engineer, Intelligence & Insights",
+      "company": "Facebook",
+      "yearStart": 2019,
+      "yearEnd": 2021,
+      "responsibilities": [
+        "Conducted technical threat surface analyses, highlighting potential attacker tactics, techniques and procedures (TTPs), gaps in collected signal, and detection ideas",
+        "Collaborated tightly with customer and stakeholder teams in determining the highest priority threats to a technical surface and roadmaps to improvement",
+        "Wrote tests to emulate attacker procedures in order to validate internal detection mechanisms",
+        "Acted as a threat intelligence lead for cross-functional project work across the company"
+      ]
+    },
+    {
+      "role": "Corporate Threat Investigator",
+      "company": "Facebook",
+      "yearStart": 2019,
+      "yearEnd": 2019,
+      "responsibilities": [
+        "Tracked advanced persistent threat (APT) actors, pivoting on and enriching datasets to discover new on-platform accounts and off-platform adversary infrastructure",
+        "Investigated security alerts related to APT actors as part of an oncall rotation",
+        "Hunted for threat actor activity based on self-generated and vendor supplied threat intelligence",
+        "Developed internal tools in Hacklang and React"
+      ]
+    },
+    {
+      "role": "Cybersecurity Engineer, Sr.",
+      "company": "MITRE",
+      "yearStart": 2017,
+      "yearEnd": 2019,
+      "responsibilities": [
+        "Developed and deployed a malware analysis network to support sponsor operations",
+        "Developed a parser for iOS to retrieve and analyze public and private frameworks for forensic analysis",
+        "Developed a STIX/TAXII server to parse and distribute cyber threat intelligence information"
+      ]
+    },
+    {
+      "role": "Intern",
+      "company": "Federal Trade Commission",
+      "yearStart": 2016,
+      "yearEnd": 2016,
+      "responsibilities": [
+        "Led and conducted a research study and behavioral analysis of ransomware and its effect on consumers",
+        "Developed Python-based parsers to perform postmortem analysis on victim filesystems",
+        "Reverse engineered samples to determine encryption algorithms and command & control servers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MSc Cybersecurity",
+      "school": "New York University",
+      "startYear": 2015,
+      "endYear": 2017
+    },
+    {
+      "degree": "BSc Computer Science",
+      "school": "Manhattan College",
+      "startYear": 2013,
+      "endYear": 2015
+    }
+  ],
+  "awards": [
+    {
+      "name": "1st Place in Kaspersky Lab's Cyber Security Case Study Competition",
+      "issuer": "The Economist",
+      "year": 2016
+    },
+    {
+      "name": "ASPIRE Scholarship-for-Service",
+      "issuer": "National Science Foundation",
+      "year": 2015
+    }
+  ],
+  "skills": [
+    {
+      "title": "Security Tooling",
+      "skills": ["Autopsy", "Carbon Black LiveResponse", "Microsoft Defender for Endpoint", "osquery", "Red Canary", "SOAR"]
+    },
+    {
+      "title": "Programming",
+      "skills": ["C/C++", "C#", "Golang", "Javascript/Typescript", "Python", "SQL"]
+    }
+  ]
+}
